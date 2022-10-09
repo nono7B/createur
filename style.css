@@ -1,7 +1,7 @@
 body {  
   font-family: tahoma;  
   height: 100vh;  
-  background-image: url(https://th.bing.com/th/id/OIP.1syqBL5zYWyLblodHZ6lAQAAAA?pid=ImgDet&w=420&h=277&rs=1);  
+  background-image: url(https://picsum.photos/g/3000/2000);  
   background-size: cover;  
   background-position: center;  
   display: flex;  
